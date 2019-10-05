@@ -2,14 +2,14 @@
 
 @media screen and (min-width: 601px) {
   div#wrapper {
-    width: 900px;
+    width: 500px;
   }
   div.container{
-    max-width: 900px;
+    max-width: 500px;
   }
   ul#topnav li a{
-    width: 180px;
-    padding: 5px 15px;
+    width: 100px;
+    padding: 2px 5px;
   }
   * {
     font-size: 18px;
@@ -38,7 +38,18 @@
     font-size: 16px;
   }
 }
-
+@media screen and (min-width: 900px) {
+  div#wrapper {
+    width: 900px;
+  }
+  div.container{
+    max-width: 900px;
+  }
+  ul#topnav li a{
+    width: 180px;
+    padding: 5px 15px;
+  }
+}
 @media screen and (max-width: 600px) {
   div#wrapper {
     width: 400px;
@@ -77,6 +88,7 @@
     font-size: 12px;
   }
 }
+
 
 *{
   margin:0;
