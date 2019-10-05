@@ -2,13 +2,13 @@
 
 @media screen and (min-width: 601px) {
   div#wrapper {
-    width: 500px;
+    width: 520px;
   }
   div.container{
-    max-width: 500px;
+    max-width: 520px;
   }
   ul#topnav li a{
-    width: 100px;
+    width: 110px;
     padding: 2px 5px;
   }
   * {
@@ -38,7 +38,7 @@
     font-size: 16px;
   }
 }
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1000px) {
   div#wrapper {
     width: 900px;
   }
