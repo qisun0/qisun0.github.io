@@ -114,7 +114,7 @@ body{
 .container a,
 .container a:focus{
   color: #268bd2;
-  text-decoration: underline
+  text-decoration: none
 }
 /*#07519a*/
 /*.container a:hover{
