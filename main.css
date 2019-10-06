@@ -281,7 +281,7 @@ a.btn,
 a.btn:focus{
   padding: 1px 7px;
   display: inline-block;
-  margin-bottom: 0;
+  margin-bottom: 3px;
   font-weight: normal;
   text-align: center;
   vertical-align: middle;
@@ -290,7 +290,7 @@ a.btn:focus{
   border: 1px solid transparent;
   white-space: nowrap;
   line-height: 1.6;
-  border-radius: 4px;
+  border-radius: 5px;
   color: #ffffff;
   background-color: #3ba3d6;
   border-color: #3ba3d6;
