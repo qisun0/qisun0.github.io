@@ -291,9 +291,9 @@ a.btn:focus{
   white-space: nowrap;
   line-height: 1.6;
   border-radius: 5px;
-  color: #ffffff;
-  background-color: #3ba3d6;
-  border-color: #3ba3d6;
+  color: #3592c0;
+  background-color: #ffffff;
+  border-color: #3592c0;
   text-decoration: none;
 }
 a.btn:hover{
@@ -301,7 +301,6 @@ a.btn:hover{
   background-color: #3592c0;
   border-color: #3592c0;
 }
-
 
 
 /*media links*/
