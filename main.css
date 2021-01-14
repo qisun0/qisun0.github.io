@@ -366,3 +366,19 @@ a.media:hover{
   column-count:         1;
   }
 }
+
+.profile-picture {
+  border-radius: 50%;
+  margin-top: 0;
+  border: 0px;
+  margin-bottom: 20px;
+  height: 210px;
+  width: 210px;
+  overflow: hidden;
+}
+.profile-picture img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
